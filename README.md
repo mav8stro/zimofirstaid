@@ -1,211 +1,222 @@
-<h1 align="center">📶 Zimo FirstAid</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI-Powered+Connectivity+Intelligence+Platform;Smart+Network+Detection+and+Optimization;Future+of+Adaptive+Internet+Connectivity;React+%2B+Node.js+%2B+Django+Architecture;Never+Lose+Signal+Again" />
-</p>
+# 📶 Zimo FirstAid
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=36&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=1200&lines=AI-Powered+Connectivity+Intelligence+Platform;Adaptive+Internet+Systems+for+Modern+Users;Smart+Network+Analysis+and+Optimization;Future+of+Intelligent+Mobile+Connectivity;React+%2B+Node.js+%2B+Django+Architecture;Never+Lose+Signal+Again" />
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0MDFhMTE2NGVkNjJkNjQ2ZjliNmQxYzA3NGI4YzRhMzE1NzQ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
-</p>
+<br>
 
----
+<img src="https://img.shields.io/github/stars/mav8stro/zimofirstaid?style=for-the-badge&color=00BFFF"/>
+<img src="https://img.shields.io/github/forks/mav8stro/zimofirstaid?style=for-the-badge&color=8A2BE2"/>
+<img src="https://img.shields.io/github/issues/mav8stro/zimofirstaid?style=for-the-badge&color=FF1493"/>
+<img src="https://img.shields.io/github/license/mav8stro/zimofirstaid?style=for-the-badge&color=00CED1"/>
+<img src="https://img.shields.io/badge/Status-Active%20Development-success?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Open%20Source-Yes-blueviolet?style=for-the-badge"/>
 
-<h3 align="center">🚀 Intelligent Connectivity • Network Analytics • Adaptive Internet Systems 🚀</h3>
+<br><br>
 
----
+<img src="https://skillicons.dev/icons?i=react,nodejs,django,postgresql,js,html,css,git,github,vscode,linux,figma&perline=12" />
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/mav8stro/zimofirstaid?style=for-the-badge&color=00BFFF" />
-  <img src="https://img.shields.io/github/forks/mav8stro/zimofirstaid?style=for-the-badge&color=8A2BE2" />
-  <img src="https://img.shields.io/github/issues/mav8stro/zimofirstaid?style=for-the-badge&color=FF1493" />
-  <img src="https://img.shields.io/github/license/mav8stro/zimofirstaid?style=for-the-badge&color=00CED1" />
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,django,postgresql,js,html,css,git,github,vscode,linux" />
-</p>
+<div align="center">
+
+## 🚀 Intelligent Connectivity • Adaptive Networks • AI-Powered Analysis
+
+</div>
 
 ---
 
-# 🧠 About The Project
+# 🧠 Introduction
+
+Zimo FirstAid is a next-generation connectivity intelligence platform focused on improving internet reliability, carrier analysis, and adaptive network systems for modern mobile users.
+
+The platform is designed to solve one of the most common digital problems faced by millions of users every day:
+
+> Weak internet connectivity.
+
+Whether users are traveling, studying online, gaming, working remotely, or navigating rural areas, unstable internet access creates frustration and productivity loss.
+
+Zimo FirstAid aims to provide a smarter connectivity experience through:
+
+- 📶 Real-time signal analysis
+- ⚡ Internet performance testing
+- 🧠 AI-powered network recommendations
+- 📍 Location-based connectivity intelligence
+- 🔄 Future adaptive eSIM technologies
+
+The long-term vision is to build a platform where internet connectivity automatically adapts to user environments and provides the strongest possible network experience.
+
+---
+
+# 🌍 Real World Problem
+
+In many regions, users experience:
 
 ```text
-Zimo FirstAid is a next-generation connectivity intelligence platform
-focused on improving internet reliability through smart network analysis,
-signal monitoring, carrier optimization, and adaptive connectivity systems.
-
-The platform is designed to help users identify the strongest and most
-reliable mobile network nearby using AI-powered recommendations,
-location intelligence, and future eSIM technologies.
-
-Our mission is to reduce internet connectivity frustration and create
-a smarter internet experience for mobile users everywhere.
+• Weak mobile signal
+• Slow internet speeds
+• Frequent network drops
+• Inconsistent carrier performance
+• Poor coverage while traveling
+• Difficulty identifying better networks
 ```
 
----
+Most users currently solve this problem manually by:
+- changing SIM cards
+- switching carriers
+- purchasing multiple plans
+- testing networks individually
 
-# 🌍 Real-World Problem
+This process is inefficient, expensive, and inconvenient.
 
-```text
-Many users experience weak internet signals while:
-
-• Traveling between cities
-• Living in rural areas
-• Attending online classes
-• Working remotely
-• Gaming online
-• Streaming content
-• Using navigation systems
-
-Switching SIM cards repeatedly is inconvenient and inefficient.
-
-Zimo FirstAid aims to simplify connectivity by helping users
-discover better available networks intelligently.
-```
+Zimo FirstAid is being developed to simplify connectivity decisions using intelligent network analysis systems.
 
 ---
 
-# 🚀 Main Objectives
+# 🎯 Mission
+
+> Build an intelligent connectivity ecosystem that helps users automatically discover and optimize the best available internet connection.
+
+---
+
+# 💡 Vision
+
+The future vision of Zimo FirstAid is to create:
 
 ```text
-✔ Analyze nearby network performance
-✔ Detect weak connectivity zones
-✔ Recommend stronger mobile carriers
-✔ Improve internet accessibility
-✔ Build future-ready adaptive connectivity systems
-✔ Develop AI-powered network intelligence
+✔ Smart adaptive connectivity
+✔ AI-powered internet optimization
+✔ Intelligent carrier analysis
+✔ Dynamic network recommendations
+✔ eSIM-based switching systems
+✔ Connectivity intelligence infrastructure
+✔ Reliable internet accessibility for everyone
 ```
 
 ---
 
 # ⚡ Core Features
 
-## 📶 Signal Intelligence
+<div align="center">
+
+| Feature | Description |
+|---|---|
+| 📶 Signal Analysis | Analyze mobile signal strength in real time |
+| ⚡ Speed Testing | Measure upload, download, and latency |
+| 🧠 Smart Recommendations | Suggest stronger nearby networks |
+| 📍 Location Intelligence | Detect weak coverage areas |
+| 📊 Connectivity Dashboard | Visualize network analytics |
+| 🔄 Future eSIM Systems | Adaptive internet switching |
+| 🌙 Modern Interface | Responsive and clean user experience |
+| 📡 Carrier Comparison | Compare available network quality |
+
+</div>
+
+---
+
+# 🏗️ System Architecture
+
+<div align="center">
+
+```mermaid
+flowchart LR
+
+A[📱 React Frontend] --> B[🟢 Node.js Backend APIs]
+
+B --> C[🐍 Django Core System]
+
+C --> D[(🐘 PostgreSQL Database)]
+
+B --> E[📶 Signal Analysis Engine]
+
+C --> F[🧠 AI Recommendation Engine]
+
+F --> G[📍 Connectivity Intelligence]
+
+G --> H[📊 Analytics Dashboard]
+```
+
+</div>
+
+---
+
+# 💻 Technology Stack
+
+---
+
+## ⚛ Frontend — React.js
+
+The frontend layer focuses on building a modern and responsive user experience.
+
+### Features
 
 ```text
-• Real-time signal strength monitoring
-• Carrier signal comparison
-• Weak network alerts
-• Connectivity scoring system
+✔ Dynamic UI Components
+✔ Responsive Layouts
+✔ Real-Time Connectivity Data
+✔ Interactive Dashboards
+✔ Fast User Experience
+✔ Modern Interface Design
 ```
 
 ---
 
-## ⚡ Speed Analysis
+## 🟢 Backend — Node.js
+
+The backend system manages APIs, connectivity processing, and communication between services.
+
+### Features
 
 ```text
-• Download speed testing
-• Upload speed testing
-• Latency measurement
-• Network stability tracking
+✔ REST API Architecture
+✔ Authentication Systems
+✔ Connectivity Processing
+✔ Analytics Services
+✔ Scalable API Design
+✔ Performance Optimization
 ```
 
 ---
 
-## 🧠 AI Recommendation Engine
+## 🐍 Core Framework — Django
+
+Django serves as the central management and intelligence layer of the platform.
+
+### Features
 
 ```text
-• Smart carrier suggestions
-• Connectivity optimization
-• Location-based recommendations
-• Usage pattern analysis
+✔ Core Application Management
+✔ AI Integration Layer
+✔ Security Systems
+✔ Admin Management
+✔ Scalable Architecture
+✔ Data Orchestration
 ```
 
 ---
 
-## 📍 Location Intelligence
+## 🐘 Database — PostgreSQL
+
+PostgreSQL stores analytics, connectivity insights, user data, and system reports.
+
+### Features
 
 ```text
-• Coverage analysis by area
-• Dead-zone identification
-• Nearby carrier ranking
-• Connectivity heatmaps
+✔ High Performance Queries
+✔ Reliable Relational Storage
+✔ Scalable Data Management
+✔ Connectivity Analytics Storage
+✔ Structured System Architecture
 ```
 
 ---
 
-## 🔄 Future Expansion
+# 📂 Project Structure
 
-```text
-• eSIM integration
-• Adaptive network switching
-• Emergency connectivity mode
-• Travel internet packs
-• Telecom integrations
-```
-
----
-
-# 🛠️ System Architecture
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="150"/>
-</p>
-
----
-
-# 💻 Frontend — React.js
-
-```text
-⚛ Modern responsive interface
-⚛ Dynamic UI components
-⚛ Real-time data rendering
-⚛ Interactive dashboards
-⚛ Connectivity visualizations
-⚛ User-friendly experience
-```
-
----
-
-# ⚙️ Backend — Node.js
-
-```text
-🟢 REST API services
-🟢 Authentication systems
-🟢 Data processing
-🟢 Real-time communication
-🟢 Connectivity analytics APIs
-🟢 Performance optimization
-```
-
----
-
-# 🐍 Core System — Django
-
-```text
-🐍 Main application management
-🐍 AI logic integration
-🐍 Admin management system
-🐍 Database orchestration
-🐍 Security systems
-🐍 Scalable architecture
-```
-
----
-
-# 🗄️ Database — PostgreSQL
-
-```text
-🐘 High-performance storage
-🐘 Connectivity analytics
-🐘 User management
-🐘 Network reports
-🐘 Scalable relational architecture
-```
-
----
-
-# 📁 Project Structure
-
-```text
+```bash
 zimofirstaid/
 │
 ├── frontend/
@@ -213,9 +224,10 @@ zimofirstaid/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
-│   │   ├── hooks/
 │   │   ├── services/
 │   │   ├── context/
+│   │   ├── hooks/
+│   │   ├── layouts/
 │   │   └── App.js
 │   │
 │   └── package.json
@@ -226,67 +238,113 @@ zimofirstaid/
 │   ├── controllers/
 │   ├── services/
 │   ├── models/
+│   ├── utils/
 │   └── server.js
 │
 ├── django-core/
 │   ├── apps/
-│   ├── settings/
 │   ├── api/
+│   ├── settings/
+│   ├── intelligence/
+│   ├── analytics/
 │   ├── manage.py
 │   └── requirements.txt
 │
-├── assets/
 ├── docs/
+├── assets/
 ├── README.md
-└── roadmap.md
+├── roadmap.md
+└── LICENSE
+```
+
+---
+
+# 🧠 Connectivity Intelligence Engine
+
+The intelligence engine is one of the core concepts behind Zimo FirstAid.
+
+It is designed to analyze:
+
+```text
+• Signal strength
+• Internet speed
+• Carrier reliability
+• Geographic performance
+• User movement patterns
+• Connectivity stability
+```
+
+The goal is to generate smarter connectivity recommendations for users automatically.
+
+---
+
+# 📊 Analytics System
+
+The analytics dashboard will help users understand their internet quality using:
+
+```text
+✔ Speed analytics
+✔ Signal monitoring
+✔ Carrier comparison
+✔ Weak-zone reports
+✔ Connectivity trends
+✔ Performance scoring
 ```
 
 ---
 
 # 🚀 Development Roadmap
 
-## 🟢 Phase 1 — MVP Development
+## 🟢 Phase 1 — MVP
+
+### Goals
 
 ```text
-✔ Signal detector
-✔ Speed test engine
+✔ Signal strength detector
+✔ Speed testing engine
 ✔ Connectivity dashboard
 ✔ Carrier comparison
-✔ User interface setup
-✔ Basic analytics
+✔ Basic analytics system
+✔ Responsive frontend
 ```
 
 ---
 
-## 🟡 Phase 2 — Smart Intelligence
+## 🟡 Phase 2 — Intelligence Layer
+
+### Goals
 
 ```text
-✔ AI recommendations
-✔ Network scoring
-✔ Dead-zone alerts
-✔ Connectivity reports
-✔ Location analysis
-✔ Usage optimization
+✔ AI-powered recommendations
+✔ Connectivity scoring
+✔ Location intelligence
+✔ Smart network analysis
+✔ Dead-zone detection
+✔ User connectivity insights
 ```
 
 ---
 
-## 🔴 Phase 3 — Future Connectivity
+## 🔴 Phase 3 — Adaptive Connectivity
+
+### Goals
 
 ```text
-✔ eSIM systems
-✔ Dynamic switching
-✔ Telecom partnerships
-✔ Smart subscriptions
-✔ Adaptive internet routing
-✔ Emergency connectivity
+✔ eSIM support
+✔ Dynamic switching systems
+✔ Emergency internet mode
+✔ Telecom integrations
+✔ Connectivity subscriptions
+✔ Adaptive internet architecture
 ```
 
 ---
 
 # ⚙️ Installation Guide
 
-# 1️⃣ Clone Repository
+---
+
+## 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/mav8stro/zimofirstaid.git
@@ -294,7 +352,7 @@ git clone https://github.com/mav8stro/zimofirstaid.git
 
 ---
 
-# 2️⃣ Open Project
+## 2️⃣ Navigate Into Project
 
 ```bash
 cd zimofirstaid
@@ -302,7 +360,7 @@ cd zimofirstaid
 
 ---
 
-# 3️⃣ Frontend Setup
+# ⚛ Frontend Setup
 
 ```bash
 cd frontend
@@ -314,7 +372,7 @@ npm start
 
 ---
 
-# 4️⃣ Backend Setup
+# 🟢 Backend Setup
 
 ```bash
 cd backend
@@ -326,7 +384,7 @@ node server.js
 
 ---
 
-# 5️⃣ Django Core Setup
+# 🐍 Django Core Setup
 
 ```bash
 cd django-core
@@ -338,23 +396,6 @@ venv\Scripts\activate
 pip install -r requirements.txt
 
 python manage.py runserver
-```
-
----
-
-# 📊 Future AI Connectivity Engine
-
-```text
-The future AI engine will analyze:
-
-• Signal quality
-• Network stability
-• Internet speed
-• Carrier reliability
-• User movement patterns
-• Geographic connectivity data
-
-to deliver adaptive internet recommendations.
 ```
 
 ---
@@ -376,62 +417,81 @@ to deliver adaptive internet recommendations.
 
 # 🔥 Why Zimo FirstAid?
 
-```text
-Internet connectivity should adapt to users automatically
-instead of forcing users to struggle with weak signals,
-network switching, and unstable internet experiences.
-```
+Most internet platforms focus only on providing connectivity.
+
+Zimo FirstAid focuses on:
+> improving connectivity intelligence.
+
+The platform aims to help users make smarter decisions about internet access instead of struggling with weak network conditions blindly.
 
 ---
 
 # 💡 Future Possibilities
 
 ```text
-🚀 AI-powered network optimization
-🚀 Smart internet subscriptions
-🚀 Connectivity heatmaps
+🚀 AI-powered connectivity optimization
+🚀 Global connectivity intelligence
+🚀 Adaptive mobile internet systems
 🚀 Telecom integrations
-🚀 Global travel connectivity
+🚀 Smart travel internet packs
+🚀 Connectivity heatmaps
 🚀 Intelligent eSIM ecosystems
 🚀 Connectivity-as-a-Service
 ```
 
 ---
 
-# 💻 Developer Profile
+# 📈 GitHub Analytics
 
-```text
-Muhammed Salman N
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+# 👨‍💻 Developer
+
+<div align="center">
+
+## Muhammed Salman N
 
 Full Stack Developer
-React • Node.js • Django • PostgreSQL
 
-Interests:
-• AI Systems
+⚛ React.js  
+🟢 Node.js  
+🐍 Django  
+🐘 PostgreSQL
+
+### Interests
+
+```text
 • Full Stack Development
-• Mobile Technologies
-• Startup Building
+• AI Systems
 • Connectivity Intelligence
+• Startup Building
+• Mobile Technologies
 • Scalable Architectures
 ```
 
----
+<a href="https://github.com/mav8stro">
+  <img src="https://img.shields.io/badge/GitHub-mav8stro-181717?style=for-the-badge&logo=github"/>
+</a>
 
-# 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🔥 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night&hide_border=true"/>
-</p>
+</div>
 
 ---
 
@@ -443,6 +503,8 @@ MIT License
 
 ---
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=220&section=footer&text=Zimo%20FirstAid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:00BFFF,100:8A2BE2&text=Zimo%20FirstAid&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+
+</div>
