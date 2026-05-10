@@ -1,122 +1,204 @@
 <h1 align="center">📶 Zimo FirstAid</h1>
-<h3 align="center">AI-Powered Connectivity Intelligence Platform</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Flutter-blue?style=for-the-badge&logo=flutter" />
-  <img src="https://img.shields.io/badge/Backend-Firebase-orange?style=for-the-badge&logo=firebase" />
-  <img src="https://img.shields.io/badge/AI-Network%20Analysis-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android" />
-  <img src="https://img.shields.io/badge/Status-MVP-red?style=for-the-badge" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=35&pause=1000&color=00BFFF&center=true&vCenter=true&width=1000&lines=AI-Powered+Connectivity+Intelligence+Platform;Smart+Network+Detection+and+Optimization;Future+of+Adaptive+Internet+Connectivity;React+%2B+Node.js+%2B+Django+Architecture;Never+Lose+Signal+Again" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Never+Lose+Signal+Again.;Smart+Connectivity+Assistant.;AI-Powered+Network+Detection.;Future+of+Mobile+Internet." />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjQ0MDFhMTE2NGVkNjJkNjQ2ZjliNmQxYzA3NGI4YzRhMzE1NzQ5MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif" width="300"/>
 </p>
 
 ---
 
-## 🧠 Overview
-
-```text
-Zimo FirstAid is a smart connectivity platform designed to help users
-detect, analyze, and access the best available mobile network nearby.
-
-The system focuses on improving internet reliability through
-signal analysis, network recommendations, speed testing,
-and future eSIM-based connectivity solutions.
-```
+<h3 align="center">🚀 Intelligent Connectivity • Network Analytics • Adaptive Internet Systems 🚀</h3>
 
 ---
-
-# 🚀 Core Features
-
-```text
-📶 Real-time signal strength analysis
-⚡ Mobile internet speed testing
-🧠 AI-powered network recommendations
-🛰️ Dead-zone detection system
-📍 Location-based carrier analysis
-🔄 Future eSIM switching support
-📊 Connectivity analytics dashboard
-🌙 Modern dark/light UI
-```
-
----
-
-# 🎯 Problem We Solve
-
-```text
-Many users face weak internet connectivity while traveling,
-living in rural areas, or moving between locations.
-
-Zimo FirstAid helps users quickly identify the strongest
-and most reliable mobile network available nearby.
-```
-
----
-
-# 💡 Vision
-
-```text
-Build the future of intelligent mobile connectivity where
-internet access becomes adaptive, smart, and location-aware.
-```
-
----
-
-# 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio,vscode,github" height="60"/>
+  <img src="https://img.shields.io/github/stars/mav8stro/zimofirstaid?style=for-the-badge&color=00BFFF" />
+  <img src="https://img.shields.io/github/forks/mav8stro/zimofirstaid?style=for-the-badge&color=8A2BE2" />
+  <img src="https://img.shields.io/github/issues/mav8stro/zimofirstaid?style=for-the-badge&color=FF1493" />
+  <img src="https://img.shields.io/github/license/mav8stro/zimofirstaid?style=for-the-badge&color=00CED1" />
 </p>
 
+---
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,django,postgresql,js,html,css,git,github,vscode,linux" />
+</p>
+
+---
+
+# 🧠 About The Project
+
 ```text
-Frontend   → Flutter
-Backend    → Firebase
-Database   → Firestore
-Analytics  → Connectivity Intelligence
-Platform   → Android
-Future     → AI + eSIM Integration
+Zimo FirstAid is a next-generation connectivity intelligence platform
+focused on improving internet reliability through smart network analysis,
+signal monitoring, carrier optimization, and adaptive connectivity systems.
+
+The platform is designed to help users identify the strongest and most
+reliable mobile network nearby using AI-powered recommendations,
+location intelligence, and future eSIM technologies.
+
+Our mission is to reduce internet connectivity frustration and create
+a smarter internet experience for mobile users everywhere.
 ```
 
 ---
 
-# 📱 Planned Features
-
-## Phase 1 — MVP
+# 🌍 Real-World Problem
 
 ```text
-✔ Signal strength detector
-✔ Speed testing system
-✔ Network comparison
-✔ Basic dashboard
-✔ Connectivity reports
+Many users experience weak internet signals while:
+
+• Traveling between cities
+• Living in rural areas
+• Attending online classes
+• Working remotely
+• Gaming online
+• Streaming content
+• Using navigation systems
+
+Switching SIM cards repeatedly is inconvenient and inefficient.
+
+Zimo FirstAid aims to simplify connectivity by helping users
+discover better available networks intelligently.
 ```
 
 ---
 
-## Phase 2 — Smart Connectivity
+# 🚀 Main Objectives
 
 ```text
-✔ AI network recommendation
-✔ Dead-zone alerts
-✔ Smart carrier suggestions
-✔ Location intelligence
-✔ Connectivity scoring
+✔ Analyze nearby network performance
+✔ Detect weak connectivity zones
+✔ Recommend stronger mobile carriers
+✔ Improve internet accessibility
+✔ Build future-ready adaptive connectivity systems
+✔ Develop AI-powered network intelligence
 ```
 
 ---
 
-## Phase 3 — Future Expansion
+# ⚡ Core Features
+
+## 📶 Signal Intelligence
 
 ```text
-✔ eSIM integration
-✔ Auto network switching
-✔ Emergency internet mode
-✔ Travel connectivity packs
-✔ Telecom partnerships
+• Real-time signal strength monitoring
+• Carrier signal comparison
+• Weak network alerts
+• Connectivity scoring system
+```
+
+---
+
+## ⚡ Speed Analysis
+
+```text
+• Download speed testing
+• Upload speed testing
+• Latency measurement
+• Network stability tracking
+```
+
+---
+
+## 🧠 AI Recommendation Engine
+
+```text
+• Smart carrier suggestions
+• Connectivity optimization
+• Location-based recommendations
+• Usage pattern analysis
+```
+
+---
+
+## 📍 Location Intelligence
+
+```text
+• Coverage analysis by area
+• Dead-zone identification
+• Nearby carrier ranking
+• Connectivity heatmaps
+```
+
+---
+
+## 🔄 Future Expansion
+
+```text
+• eSIM integration
+• Adaptive network switching
+• Emergency connectivity mode
+• Travel internet packs
+• Telecom integrations
+```
+
+---
+
+# 🛠️ System Architecture
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="80"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://static.djangoproject.com/img/logos/django-logo-positive.svg" width="150"/>
+</p>
+
+---
+
+# 💻 Frontend — React.js
+
+```text
+⚛ Modern responsive interface
+⚛ Dynamic UI components
+⚛ Real-time data rendering
+⚛ Interactive dashboards
+⚛ Connectivity visualizations
+⚛ User-friendly experience
+```
+
+---
+
+# ⚙️ Backend — Node.js
+
+```text
+🟢 REST API services
+🟢 Authentication systems
+🟢 Data processing
+🟢 Real-time communication
+🟢 Connectivity analytics APIs
+🟢 Performance optimization
+```
+
+---
+
+# 🐍 Core System — Django
+
+```text
+🐍 Main application management
+🐍 AI logic integration
+🐍 Admin management system
+🐍 Database orchestration
+🐍 Security systems
+🐍 Scalable architecture
+```
+
+---
+
+# 🗄️ Database — PostgreSQL
+
+```text
+🐘 High-performance storage
+🐘 Connectivity analytics
+🐘 User management
+🐘 Network reports
+🐘 Scalable relational architecture
 ```
 
 ---
@@ -126,25 +208,85 @@ Future     → AI + eSIM Integration
 ```text
 zimofirstaid/
 │
-├── lib/
-│   ├── screens/
-│   ├── widgets/
+├── frontend/
+│   ├── public/
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   ├── hooks/
+│   │   ├── services/
+│   │   ├── context/
+│   │   └── App.js
+│   │
+│   └── package.json
+│
+├── backend/
+│   ├── routes/
+│   ├── middleware/
+│   ├── controllers/
 │   ├── services/
 │   ├── models/
-│   └── main.dart
+│   └── server.js
+│
+├── django-core/
+│   ├── apps/
+│   ├── settings/
+│   ├── api/
+│   ├── manage.py
+│   └── requirements.txt
 │
 ├── assets/
-│
+├── docs/
 ├── README.md
-├── roadmap.md
-└── pubspec.yaml
+└── roadmap.md
 ```
 
 ---
 
-# ⚙️ Installation
+# 🚀 Development Roadmap
 
-## Clone Repository
+## 🟢 Phase 1 — MVP Development
+
+```text
+✔ Signal detector
+✔ Speed test engine
+✔ Connectivity dashboard
+✔ Carrier comparison
+✔ User interface setup
+✔ Basic analytics
+```
+
+---
+
+## 🟡 Phase 2 — Smart Intelligence
+
+```text
+✔ AI recommendations
+✔ Network scoring
+✔ Dead-zone alerts
+✔ Connectivity reports
+✔ Location analysis
+✔ Usage optimization
+```
+
+---
+
+## 🔴 Phase 3 — Future Connectivity
+
+```text
+✔ eSIM systems
+✔ Dynamic switching
+✔ Telecom partnerships
+✔ Smart subscriptions
+✔ Adaptive internet routing
+✔ Emergency connectivity
+```
+
+---
+
+# ⚙️ Installation Guide
+
+# 1️⃣ Clone Repository
 
 ```bash
 git clone https://github.com/mav8stro/zimofirstaid.git
@@ -152,7 +294,7 @@ git clone https://github.com/mav8stro/zimofirstaid.git
 
 ---
 
-## Open Project
+# 2️⃣ Open Project
 
 ```bash
 cd zimofirstaid
@@ -160,34 +302,59 @@ cd zimofirstaid
 
 ---
 
-## Install Dependencies
+# 3️⃣ Frontend Setup
 
 ```bash
-flutter pub get
+cd frontend
+
+npm install
+
+npm start
 ```
 
 ---
 
-## Run Application
+# 4️⃣ Backend Setup
 
 ```bash
-flutter run
+cd backend
+
+npm install
+
+node server.js
 ```
 
 ---
 
-# 📊 Future AI System
+# 5️⃣ Django Core Setup
+
+```bash
+cd django-core
+
+python -m venv venv
+
+venv\Scripts\activate
+
+pip install -r requirements.txt
+
+python manage.py runserver
+```
+
+---
+
+# 📊 Future AI Connectivity Engine
 
 ```text
 The future AI engine will analyze:
 
 • Signal quality
+• Network stability
 • Internet speed
-• Carrier performance
-• Location patterns
-• Connectivity reliability
+• Carrier reliability
+• User movement patterns
+• Geographic connectivity data
 
-to recommend the best available network experience.
+to deliver adaptive internet recommendations.
 ```
 
 ---
@@ -195,12 +362,13 @@ to recommend the best available network experience.
 # 🌍 Target Users
 
 ```text
-✔ Travelers
 ✔ Students
+✔ Travelers
 ✔ Remote workers
-✔ Rural users
-✔ Delivery workers
+✔ Rural communities
 ✔ Mobile gamers
+✔ Delivery agents
+✔ Business users
 ✔ Everyday smartphone users
 ```
 
@@ -209,53 +377,61 @@ to recommend the best available network experience.
 # 🔥 Why Zimo FirstAid?
 
 ```text
-Because internet connectivity should adapt to users —
-not force users to adapt to weak networks.
+Internet connectivity should adapt to users automatically
+instead of forcing users to struggle with weak signals,
+network switching, and unstable internet experiences.
 ```
 
 ---
 
-# 🧪 MVP Goals
+# 💡 Future Possibilities
 
 ```text
-✔ Build fast
-✔ Test with real users
-✔ Collect network data
-✔ Improve recommendations
-✔ Expand intelligently
+🚀 AI-powered network optimization
+🚀 Smart internet subscriptions
+🚀 Connectivity heatmaps
+🚀 Telecom integrations
+🚀 Global travel connectivity
+🚀 Intelligent eSIM ecosystems
+🚀 Connectivity-as-a-Service
 ```
 
 ---
 
-# 💣 One-Line Summary
-
-```text
-An intelligent connectivity assistant designed to help users
-find the strongest and most reliable mobile network anywhere.
-```
-
----
-
-# 👨‍💻 Developer
+# 💻 Developer Profile
 
 ```text
 Muhammed Salman N
+
 Full Stack Developer
-GitHub: https://github.com/mav8stro
+React • Node.js • Django • PostgreSQL
+
+Interests:
+• AI Systems
+• Full Stack Development
+• Mobile Technologies
+• Startup Building
+• Connectivity Intelligence
+• Scalable Architectures
 ```
 
 ---
 
-# ❤️ Interests
+# 📈 GitHub Analytics
 
-```text
-• Full Stack Development
-• AI Systems
-• Mobile App Development
-• Startup Building
-• Connectivity Technology
-• UI/UX Design
-```
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mav8stro&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mav8stro&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mav8stro&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
@@ -268,5 +444,5 @@ MIT License
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BFFF,100:8A2BE2&height=220&section=footer&text=Zimo%20FirstAid&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=70"/>
 </p>
